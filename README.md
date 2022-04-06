@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about Software Engineering, Systems Design, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at amirrmonfared@outlook.com!
 
-<img alt="Night Coding" src="./img/HandWave.gif"  align="right"/>
+<img alt="Night Coding" src="./img/Night-Coding.gif"  align="right"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
