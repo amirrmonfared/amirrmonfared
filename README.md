@@ -1,6 +1,6 @@
 <img alt="Hand Wave" src="./img/HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Amir</h2>
 
-<div align="center"/><h2>Knowledge is power</h2>
+<div align="center"/><h2>Knowledge is power!</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
