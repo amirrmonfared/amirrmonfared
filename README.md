@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  <h2>Building scalable systems, one line of Go at a time.</h2>
+  <h2>Knowledge is power!</h2>
 
   ### 👨🏻‍💻 &nbsp;About Me
 
