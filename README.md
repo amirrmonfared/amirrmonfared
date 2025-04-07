@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  <h2>Senior Backend Engineer crafting scalable systems in Go.</h2>
+  <h2>Knowledge is power!</h2>
 
   ### 👨🏻‍💻 &nbsp;About Me
 
