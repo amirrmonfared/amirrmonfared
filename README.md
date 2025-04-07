@@ -8,7 +8,7 @@
 
   ### 👨🏻‍💻 &nbsp;About Me
 
-  🧠 &nbsp;Senior Backend Engineer building scalable, high-performance systems with **Golang**.\
+  🧠 &nbsp;Software Engineer building scalable, high-performance systems mainly with **Golang**.\
   🚀 &nbsp;I love solving complex problems and turning ideas into robust, production-grade systems.\
   ☁️ &nbsp;I'm passionate about system design, cloud-native development, and clean, maintainable code.\
   ✉️ &nbsp;Feel free to reach out: <a href="mailto:amirrmonfared@outlook.com">amirrmonfared@outlook.com</a>
